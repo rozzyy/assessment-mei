@@ -8,7 +8,7 @@ Aplikasi RESTful API sederhana menggunakan Laravel untuk mengelola proyek dan tu
 
 - CRUD Proyek
 - CRUD Tugas per Proyek
-- Relasi antar model (User, Project, Task)
+- Relasi antar model (User, Project, Task) - One to Many
 - Validasi request
 - Resource response (transformer)
 - Pagination
