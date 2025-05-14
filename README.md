@@ -15,6 +15,7 @@ Aplikasi RESTful API sederhana menggunakan Laravel untuk mengelola proyek dan tu
 - Resource response (transformer)
 - Pagination
 - Filtering tugas berdasarkan status dan deadline
+- Untuk delete endpoint gunakan Softdeletes di laravel
 
 ---
 
