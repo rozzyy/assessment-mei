@@ -99,5 +99,5 @@ GET /api/tasks?status=completed&due_date=2025-05-10
 
 1. Clone repository:
 ```bash
-git clone https://github.com/kamu/assasment-mei.git
-cd 
+git clone https://github.com/rozzyy/assessment-mei.git
+cd assesment-mei
